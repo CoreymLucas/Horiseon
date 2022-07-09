@@ -35,7 +35,7 @@ body {
 .header div ul {
     list-style-type: none;
 }
-/*heaer div unoordered list and list elements */
+/*heaer div unordered list and list elements */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -188,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
